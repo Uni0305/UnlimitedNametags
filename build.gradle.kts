@@ -30,7 +30,7 @@ repositories {
     maven("https://repo.oraxen.com/snapshots")
     maven("https://jitpack.io")
     maven("https://repo.viaversion.com")
-    maven("https://maven.evokegames.gg/snapshots")
+    // maven("https://maven.evokegames.gg/snapshots")
     maven("https://repo.alessiodp.com/releases")
     maven("https://maven.typewritermc.com/beta")
     maven("https://repo.nexomc.com/snapshots/")
